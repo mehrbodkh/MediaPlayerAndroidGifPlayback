@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/mehrbod/.android/build-cache/4709e8589c1ce9e239b5fcb6076bc92a899a1904/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/home/mehrbod/Desktop/MediaPlayerAndroidGifPlayback/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dccef2a99fb05b602e6de300c35ffa1efa2c940c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mehrbod/.android/build-cache/ce10989847a7df0fc18ca434dd0366cd719f25a2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/mehrbod/Desktop/MediaPlayerAndroidGifPlayback/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1639d8af48b38539c3f2635e2368f56590366c69/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/mehrbod/LinuxExt4/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/mehrbod/Desktop/MediaPlayerAndroidGifPlayback/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_e1c30905c88beae5a7838665da06149c3133026e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mehrbod/.android/build-cache/0bc93bf95e32a94a1d9b69192d4f780dcfe68351/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/mehrbod/Desktop/MediaPlayerAndroidGifPlayback/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8cd6c13eabcdc697dd1254e2d7bba2be3af29d4a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mehrbod/.android/build-cache/3f0e5978e9e01a4eee20b56c7285b2b07dd95501/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/mehrbod/Desktop/MediaPlayerAndroidGifPlayback/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c20b06abcbd8880a22ed7b0d7354f57bda0cbcc8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mehrbod/Desktop/MediaPlayerAndroidGifPlayback/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/mehrbod/Desktop/MediaPlayerAndroidGifPlayback/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_bb6fb677cc35c2ce0865b8df8f7bc193945164bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mehrbod/.android/build-cache/426a70a02f78299ffbac4e71118d527518117821/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/home/mehrbod/Desktop/MediaPlayerAndroidGifPlayback/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4e3b5cc41fdfa7c2fec4c608e9b77db5b9b0a64d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mehrbod/Desktop/MediaPlayerAndroidGifPlayback/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e78beb7da1dac764845ed220cf0b7f3c03a412cc">
+        <dex dex="/home/mehrbod/Desktop/MediaPlayerAndroidGifPlayback/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d81cd8ffd45a01932e10c75a16f10464b5b77cb9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mehrbod/.android/build-cache/1e57e9c3f11fbbdd5cc8be6fe95bab6888f95a65/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/mehrbod/Desktop/MediaPlayerAndroidGifPlayback/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2a3a4f86c337e1fb51f465fb17b5c510f9445914/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mehrbod/.android/build-cache/1530d9559474fcf725664f3a0e71eb625a97059a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="541a2ad68dc68aa49795821f8280b7624e6a0c9b">
+        <dex dex="/home/mehrbod/Desktop/MediaPlayerAndroidGifPlayback/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cef3fa4e956b9fcd2e222415de6f8994c7ffbf65/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/mehrbod/LinuxExt4/android-sdk-linux/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-alpha7/constraint-layout-solver-1.0.0-alpha7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="439eeb5ffd54cbd18db0a6aea471e8356f19fc36">
+        <dex dex="/home/mehrbod/Desktop/MediaPlayerAndroidGifPlayback/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.0-alpha7_e1be055f5600c899c25910d15c590fe706fb7026/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mehrbod/.android/build-cache/baff4d9fa5fdf92222486d93fc6e719a0e46bf83/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/mehrbod/Desktop/MediaPlayerAndroidGifPlayback/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_efecaf18c4d5b1fd00f1b5c3ce8ebd13ec11acf5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mehrbod/.android/build-cache/a138016b7eff7adbbb1bdbd7e8c5805c927a9bde/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/mehrbod/Desktop/MediaPlayerAndroidGifPlayback/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e441b8b0129911ef5874280e43abc300331dad30/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mehrbod/.android/build-cache/e0c4e432ba6fb1310f6621175ca1af209fe867d1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/mehrbod/Desktop/MediaPlayerAndroidGifPlayback/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8e6c998498b8876e4826c92da553a3f874a03810/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mehrbod/.android/build-cache/2f09b7f2f0a416012e9eeec94c4ac77e702eb1fd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/mehrbod/Desktop/MediaPlayerAndroidGifPlayback/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c3ec11604c68d3c7556b616b2b156421c0d8aa19/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mehrbod/.android/build-cache/f540e04fcb61edfbfd2770cfdad558e5b0b47f35/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/mehrbod/Desktop/MediaPlayerAndroidGifPlayback/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8d389a6c5f6d488ea06eb87236a43bb95e359a20/classes.dex" />
+    </item>
+
+</items>
